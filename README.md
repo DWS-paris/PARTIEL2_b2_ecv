@@ -21,68 +21,79 @@ Dans le cadre de votre formation, vous avez appris différentes techniques à la
 
 ## Exercice #1 navigation 1/3
 Cette exercice a pour but de vous faire travailler sur les logiques permettant de définir le design d'une navigation.
-- **Fichier%** [01_position.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/01_position.html)
+- **Fichier :** [01_position.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/01_position.html)
+- **Points :** 2
 
 <br>
 
 ## Exercice #2 bloc
 Cette exercice a pour but de vous faire travailler sur les logiques permettant de gérer des blocs de contenu.
-- **Fichier%** [02_flex.html
+- **Fichier :** [02_flex.html
 ](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/02_flex.html)
+- **Points :** 2
 
 <br>
 
 ## Exercice #3 Transition
 Cette exercice a pour but de vous faire travailler sur les logiques permettant de gérer le design d'un lien.
-- **Fichier%** [03_transition.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/03_transition.html)
+- **Fichier :** [03_transition.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/03_transition.html)
+- **Points :** 2
 
 <br>
 
 ## Exercice #4 Template
 Cette exercice a pour but de vous faire travailler sur les logiques permettant de gérer le débordement de bloc.
-- **Fichier%** [04_template.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/04_template.html)
+- **Fichier :** [04_template.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/04_template.html)
+- **Points :** 2
 
 <br>
 
 ## Exercice #5 Responsive Web Design
 Cette exercice a pour but de vous faire travailler sur les logiques permettant de gérer des breackpoints.
-- **Fichier%** [05_rwd.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/05_rwd.html)
+- **Fichier :** [05_rwd.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/05_rwd.html)
+- **Points :** 2
 
 <br>
 
 ## Exercice #6 Boucle
 Cette exercice a pour but de vous faire travailler sur les logiques de boucle en Javascript.
-- **Fichier%** [06_loop.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/06_loop.html)
+- **Fichier :** [06_loop.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/06_loop.html)
+- **Points :** 2
 
 <br>
 
 ## Exercice #7 Condition
 Cette exercice a pour but de vous faire travailler sur les logiques de condition en Javascript.
-- **Fichier%** [07_condition.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/07_condition.html)
+- **Fichier :** [07_condition.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/07_condition.html)
+- **Points :** 2
 
 <br>
 
 ## Exercice #8 Evénement
 Cette exercice a pour but de vous faire travailler sur les logiques de gestion d'événement en Javascript.
-- **Fichier%** [08_event.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/08_event.html)
+- **Fichier :** [08_event.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/08_event.html)
+- **Points :** 2
 
 <br>
 
 ## Exercice #9 Navigation 2/3
 Cette exercice a pour but de vous faire travailler à la fois en CSS et en Javascript pour gérer un menu.
-- **Fichier%** [09_navigation.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/09_navigation.html)
+- **Fichier :** [09_navigation.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/09_navigation.html)
+- **Points :** 2
 
 <br>
 
 ## Exercice #10 Navigation 3/3
 Cette exercice a pour but de vous faire travailler sur les logiques de gestion d'une navigation dynamique.
-- **Fichier%** [10_navigation_event.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/10_navigation_event.html)
+- **Fichier :** [10_navigation_event.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/10_navigation_event.html)
+- **Points :** 2
 
 <br>
 
 ## Exercice #11 Bonus
 Réaliser une page **"AboutMe"**
-- **Fichier%** [11_bonus.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/11_bonus.html)
+- **Fichier :** [11_bonus.html](https://github.com/DWS-paris/PARTIEL2_b2_ecv/blob/master/11_bonus.html)
+- **Points :** 5
 
 <br>
 
@@ -111,6 +122,8 @@ La notation de votre partiel se fait sur 20 points au total plus 5 points de bon
 - **1 point** pour la qualité du code de chaque réponse à un exercice
 - **5 points** de bonus pour la page "AboutMe"
 
+<br>
+
 Vous pouvez vous aider de toutes les ressources que vous trouverez en ligne pour réaliser ce partiel, ou bien les supports de cours que vous retrouverez aux adresses suivante :
 
 - **Support HTML** https://hackmd.io/TzbkU9WhSt2R5dVRdCxRXQ
@@ -125,19 +138,21 @@ Vous pouvez vous aider de toutes les ressources que vous trouverez en ligne pour
 
 # Rendu
 
-Pour réaliser ce partiel vous devez dans un premier temps **télécharger ce répertoire GitHub** en cliquant sur le lien vert en haut à droite nommé "**Code**" puis sur le bouton "**Download ZIP**". Le format ZIP est le format le plus répandu et populaire pour compresser des fichiers, c'est pourquoi, une fois que vous aurez réaliser les différents exercices, vous devez **compresser votre dossier de travail au format ZIP**. 
+Pour réaliser ce partiel, vous devez dans un premier temps **télécharger ce répertoire GitHub** en cliquant sur le lien vert en haut à droite nommé "**Code**" puis sur le bouton "**Download ZIP**". Le format ZIP est le format le plus répandu et populaire pour compresser des fichiers, c'est pourquoi, une fois que vous aurez réalisé les différents exercices, vous devez **compresser votre dossier de travail au format ZIP**. 
 
 <br>
 
-Pour créer une archive .zip sur Mac, il vous suffit de faire un click-droit sur votre dossier de travail et de sélectionner l'option "Compresser...". Pour créer une archive .zip sur Windows, il vous suffit de faire un click-droit sur votre dossier de travail et de sélectionner l'option "Envoyer vers > Ficher compressé".
+Pour créer une archive ZIP sur Mac, il vous suffit de faire un click-droit sur votre dossier de travail et de sélectionner l'option "Compresser...". Pour créer une archive ZIP sur Windows, il vous suffit de faire un click-droit sur votre dossier de travail et de sélectionner l'option "Envoyer vers > Ficher compressé".
 
 - Créer un fichier **ZIP sur Mac** : https://apple.co/30W1cul
 - Créer un fichier **ZIP sur Windows** : https://bit.ly/3sgc3vf
 
 <br>
 
-Une fois votre archive créée, il est essentiel que vous respectiez la nomenclature suivante pour  nommé votre archive 
+Une fois votre archive créée, il est essentiel que vous respectiez la nomenclature suivante pour nommé votre archive :
 
 - **B2_NOM_PRENOM_PARTIELS22020-2021_DEVWEB** : en lettres majuscules : *code de la promo* + *nom/prénom* + *partielS22021* + *DEVWEB*
+
+<br>
 
 Vous devez ensuite effectuer votre rendu via Teams par message direct à Morgane qui s'occupera de les fournir ensuite à votre correcteur.
