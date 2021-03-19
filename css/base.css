@@ -26,4 +26,9 @@ Main
     p .fas{
         color: #9b4dca;
     }
+
+    video{
+        width: 100%;
+        margin-bottom: 4rem;
+    }
 /**/
