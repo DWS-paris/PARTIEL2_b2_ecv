@@ -15,18 +15,6 @@ Pour valider votre deuxième semestre 2021 à l'ECV Digital Aix-en-Provence, vou
 
 Dans le cadre de votre formation, vous avez appris différentes techniques à la fois en HTML, CSS et Javascript dans le but de vous permettre de pouvoir réaliser une page Web complète. Le présent partiel est principalement constitué de 10 exercices à réaliser, mais un bonus de 5 points est accessible en réalisant une page Web complète.
 
-<br>
-
-### Fichiers de base du partiel
-
-Pour simplifier votre travail et sa correction, nous vous avons préparé dans un répertoire GitHub, tous les fichiers nécessaires à la réalisation de ce partiel. Avant toute chose, vous devez vous rendre à l'adresse ci-dessous pour télécharger le dossier complet de votre partiel : 
-
-- **Répertoire GitHub du partiel** https://github.com/DWS-paris/PARTIEL2_b2_ecv/
-
-<br>
-
-C'est ce répertoire que vous devez utiliser pour votre partiel, car, une fois que vous aurez finalisé les différents exercices, vous devrez le compresser au format ZIP pour votre restitution.
-
 <br><br>
 
 ## Liste des exercices
