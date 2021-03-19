@@ -64,7 +64,7 @@ Bien qu'aucune technique spécifique ne soit imposée, pour réussir ce partiel 
 
 ## Critères de notation
 
-La notation de votre partiel se fait sur 20 points au total plus 5 points de bonnes, le bonus ne permettant que d'atteindre la note maximale de 20/20.
+La notation de votre partiel se fait sur 20 points au total plus 5 points de bonus, le bonus ne permettant que d'atteindre la note maximale de 20/20.
 
 - **1 point** par bonne réponse à un exercice
 - **1 point** pour la qualité du code de chaque réponse à un exercice
